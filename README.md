@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://art.pixilart.com/9d54ee253ca2dec.gif)
 
 <!--
 **glaubermagal/glaubermagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
