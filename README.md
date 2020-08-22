@@ -15,7 +15,7 @@ Hi, I'm Glauber, a Full Stack Engineer from Brazil 🇧🇷   and I work at [@AE
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Some fun facts**
+**Some fun facts:**
 
 - 🌱 I'm currently building an autonomous garden project on Arduino
 - 🚀 I’m learning Go, Ruby, GraphQL and Liquid
@@ -23,7 +23,7 @@ Hi, I'm Glauber, a Full Stack Engineer from Brazil 🇧🇷   and I work at [@AE
 - 🦇 I'm currently reading Dracula by Bram Stoker
 
 
-**Languages and Tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
