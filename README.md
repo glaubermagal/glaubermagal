@@ -13,7 +13,7 @@
 Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE Studio](https://ae.studio/). I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages. Beside's programming, I enjoy Super Metroid for the Super Nintendo.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/source.gif" />
   
 **Some fun facts:**
 
