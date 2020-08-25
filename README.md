@@ -13,7 +13,7 @@
 Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE Studio](https://ae.studio/). I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
 
 
-  <img align="right" alt="-" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQHDrBqeMqdwPw/articleshare-shrink_800/0?e=1598475600&v=beta&t=JMFUaQb4xUcXyHJfXquAN2IBnRdxlPjfy66ZNk54Gs0" />
+  <img alt="-" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQHDrBqeMqdwPw/articleshare-shrink_800/0?e=1598475600&v=beta&t=JMFUaQb4xUcXyHJfXquAN2IBnRdxlPjfy66ZNk54Gs0" />
   
 **Some fun facts:**
 
