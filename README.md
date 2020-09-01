@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE Studio](https://ae.studio/). I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
+Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE Studio](https://ae.studio/) ([WE ARE HIRING!](https://ae.studio/join-us)). I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
   
 **Some fun facts:**
 
