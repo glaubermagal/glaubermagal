@@ -15,9 +15,9 @@ Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE S
 **Some fun facts:**
 
 - 🌱 I'm currently building an autonomous garden project on Arduino
-- 🚀 I’m learning Go, Ruby, GraphQL, Cyber Security and Liquid
+- 🚀 I’m learning Go, Ruby and GraphQL
 - 📚 I love writing cool stuffs
-- 🦇 I just read Dracula by Bram Stoker
+- 🦇 I'm currently reading The Picture of Dorian Gray, by Oscar Wilde
 
 
 **Languages and tools:**  
