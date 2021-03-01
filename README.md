@@ -15,7 +15,7 @@ Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE S
 **Some fun facts:**
 
 - 🌱 I'm currently building an autonomous garden project on Arduino
-- 🚀 I’m learning Go, Ruby and GraphQL
+- 🚀 I’m learning Go
 - 📚 I love writing cool stuffs
 - 🦇 Recent reading list: 
     - [ ] (current) The Singularity Is Near: When Humans Transcend Biology – Ray Kurzweil
