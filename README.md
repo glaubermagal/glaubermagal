@@ -17,7 +17,10 @@ Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE S
 - 🌱 I'm currently building an autonomous garden project on Arduino
 - 🚀 I’m learning Go, Ruby and GraphQL
 - 📚 I love writing cool stuffs
-- 🦇 I'm currently reading The Picture of Dorian Gray, by Oscar Wilde
+- 🦇 Recent reading list: 
+    - [ ] (current) The Singularity Is Near: When Humans Transcend Biology – Ray Kurzweil
+    - [x] The Picture of Dorian Gray – Oscar Wilde
+    - [x] Dracula - Bram Stoker
 
 
 **Languages and tools:**  
