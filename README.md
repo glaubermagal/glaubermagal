@@ -36,5 +36,8 @@ Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
+<!-- 
 ![Glauber github stats](https://github-readme-stats.vercel.app/api?username=glaubermagal&show_icons=true&hide_border=true)
+-->
+
+<img width="100%" src="./linkedin-banner.png" />
