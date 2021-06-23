@@ -39,5 +39,3 @@ Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at [@AE S
 <!-- 
 ![Glauber github stats](https://github-readme-stats.vercel.app/api?username=glaubermagal&show_icons=true&hide_border=true)
 -->
-
-[![](./linkedin-banner.png)](https://ae.studio/join-us)
