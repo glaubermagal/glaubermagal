@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil and I work at Hospe. I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
+Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil. I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
   
 **Some fun facts:**
 
