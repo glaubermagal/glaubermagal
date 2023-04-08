@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Glauber, a Full Stack Engineer from 🇧🇷 Brazil. I'm a creative problem solving enthusiast, with a constantly growing love for science, history, philosophy, mathematics and languages.
+Hi, I'm Glauber, a Full Stack Engineer from Brazil 🇧🇷 with a passion for creative problem-solving. I have a constantly growing interest in various subjects such as science, mathematics, and languages. My diverse interests and skills help me bring a unique perspective to my work and allow me to approach problems from multiple angles. 
   
 <!--
 **Some fun facts:**
