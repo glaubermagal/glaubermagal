@@ -4,3 +4,5 @@ I'm Glauber, a Full Stack Engineer and a tech enthusiast passionate about crafti
 <a href="https://www.linkedin.com/in/glaubertecinfo/">
   linkedin
 </a>
+
+![Skate GIF](https://magal.surge.sh/skate.gif)
