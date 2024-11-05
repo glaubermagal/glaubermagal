@@ -1,8 +1,18 @@
-```
-Full Stack Software Engineer and a tech enthusiast passionate about
-crafting innovative solutions that bridge code and creativity
-```
+<p align="center">
+Addicted in building new things for the humanity.
+</p>
 
-<!-- I'm a Full Stack Software Engineer and a tech enthusiast passionate about crafting innovative solutions that bridge code and creativity. Boasting a wealth of experience across diverse industries, including e-commerce, blockchain, augmented reality, and fintech, I am dedicated to pushing the boundaries of technological innovation. My diverse interests and skills help me bring a unique perspective to my work and allow me to approach problems from multiple angles. -->
+---
 
-<!-- ![Skate GIF](https://raw.githubusercontent.com/glaubermagal/glaubermagal/master/sk8.gif) -->
+<h3 align="center">:trophy: Trophies :trophy:</h3>
+
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glaubermagal&amp;theme=darkhub" alt="glaubermagal&#39;s Trophies"></a>
+</p>
+
+---
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=glaubermagal&amp;count_private=true&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="glaubermagal&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermagal&amp;langs_count=5&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="Top glaubermagal&#39;s Languages"></a>
+</p>
