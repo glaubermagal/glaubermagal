@@ -1,6 +1,4 @@
-<p align="center">
-Addicted in building new things for the humanity.
-</p>
+<p align="center"></p>
 
 ---
 
