@@ -16,5 +16,6 @@ Who’s there?
 ---
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=glaubermagal&amp;count_private=true&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="glaubermagal&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermagal&amp;langs_count=5&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="Top glaubermagal&#39;s Languages"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=glaubermagal&amp;count_private=true&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="glaubermagal&#39;s GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaubermagal&amp;langs_count=2&amp;theme=chartreuse-dark&amp;show_icons=true&amp;include_all_commits=true" alt="Top glaubermagal&#39;s Languages">
 </p>
