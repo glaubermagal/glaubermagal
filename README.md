@@ -18,6 +18,7 @@ interests: ["Cryptography", "Blockchain", "Extended Reality", "Geospatial Data",
 ## 🔗 Connect
 - https://t.me/aptzero
 - https://discord.com/users/aptzero
+- ircs://irc.oftc.net:6697/#aptzero
 
 ---
 
