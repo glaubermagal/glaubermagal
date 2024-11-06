@@ -2,10 +2,9 @@ I’m a **Software Engineer** living in the pulse of code. My ambition is a futu
 
 ## 🚀 About Me
 ```yaml
-username: glaubermagal
 location: "🌆 Everywhere"
 traits: ["Creative", "Analytical", "Technologist"]
-interests: ["AR", "WebRTC", "Data Exploration", "Geospatial Data"]
+interests: ["Cryptography", "Blockchain", "Extended Reality", "Geospatial Data", "Cybersecurity"]
 ```
 
 ```diff
