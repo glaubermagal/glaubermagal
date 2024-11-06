@@ -22,8 +22,8 @@ interests: ["Cryptography", "Blockchain", "Extended Reality", "Geospatial Data",
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glaubermagal&show_icons=true&theme=radical&count_private=true" width="400" alt="stats"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glaubermagal&theme=radical&count_private=true" width="400" alt="streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=glaubermagal&show_icons=true&theme=radical&count_private=true" width="400" height="167" alt="stats"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glaubermagal&theme=radical&count_private=true" width="400" height="167" alt="streak">
 </p>
 
 <p align="center">
