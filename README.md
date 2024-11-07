@@ -9,7 +9,7 @@ interests: ["Cryptography", "Blockchain", "Extended Reality", "Geospatial Data",
 
 ```diff
 - Stack
-+ Software Security, JS, Python, TypeScript, GoLang, Next.js, FastAPI, Django, PostgreSQL, PostGIS
++ Software Security, JS, Python, TypeScript, GoLang, Next.js, FastAPI, Django, PostgreSQL, PostGIS, +
 ```
 
 ⚡ Currently working on a **Geospatial Data Platform** for city explorations.
